@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "helvetica Neue", Helvetica;
+    background-color: #dce1ef;
+    font-family: "Playfair Display", serif;
+   
+  background: url("https://hdfreewallpaper.net/wp-content/uploads/2015/07/nature-wallpapers-grass-autumn-fall-leaf-tree-wallpaper-43352.jpg")
+    no-repeat center center fixed;
+  background-color: #cccccc;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  font-weight: normal;
+  text-shadow: 1px 1px 2px #082b34;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
